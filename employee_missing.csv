@@ -1,0 +1,7 @@
+id,name,salary,join_date,department
+1,Amit,40000,2022-01-10,IT
+2,Priya,?,2022-03-15,HR
+3,Rahul,60000,2021-06-20,Sales
+4,Sneha,45000,2023-02-12,IT
+5,Rohit,NA,2022-08-25,Finance
+6,Neha,50000,2021-12-01,HR

@@ -1,0 +1,16 @@
+StudentID,Name,Age,Gender,Salary,Department
+1,Aarav,20,Male,25000,CSE
+2,Diya,21,Female,28000,IT
+3,Rohan,,Male,27000,CSE
+4,Anaya,22,Female,30000,IT
+5,Vivaan,21,,29000,AIML
+6,Isha,23,Female,32000,CSE
+7,Arjun,20,Male,26000,AIML
+8,Meera,,Female,31000,IT
+9,Kabir,22,Male,28000,CSE
+10,Saanvi,21,Female,29000,AIML
+11,Reyansh,24,Male,35000,IT
+12,Myra,20,Female,30000,CSE
+13,Advik,22,Male,28000,AIML
+14,Kiara,21,Female,29000,IT
+15,Atharv,23,Male,500000,CSE

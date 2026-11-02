@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Amit",
+        "address": {
+            "city": "Kolhapur",
+            "state": "Maharashtra"
+        },
+        "skills": [
+            "Python",
+            "SQL"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Priya",
+        "address": {
+            "city": "Pune",
+            "state": "Maharashtra"
+        },
+        "skills": [
+            "Java",
+            "Python"
+        ]
+    }
+]
